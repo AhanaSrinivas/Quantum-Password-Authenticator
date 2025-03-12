@@ -1,6 +1,5 @@
 # Quantum Password Authenticator
 
-![Quantum Cryptography](https://upload.wikimedia.org/wikipedia/commons/6/6f/QKD_Schematic.png)
 
 ## Overview
 Quantum Password Authenticator is a security system leveraging quantum cryptography principles to enhance authentication security. This project utilizes quantum key distribution (QKD) techniques to ensure safe and unbreakable password exchanges, making it resistant to brute-force attacks and classical hacking methods.
@@ -61,9 +60,6 @@ Contributions are welcome! To contribute:
 2. Create a new branch (`feature-branch`).
 3. Commit your changes.
 4. Push the branch and open a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 For any queries or discussions, feel free to reach out:
